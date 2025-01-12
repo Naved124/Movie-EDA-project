@@ -55,31 +55,6 @@ The dataset contains detailed information about 5000 movies, including:
 
 You can download the original dataset from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
 
----
-
-## Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Movie-EDA-Project.git
-   cd Movie-EDA-Project
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook:
-   ```bash
-   jupyter notebook notebooks/eda_notebook.ipynb
-   ```
-
-4. Alternatively, execute the Python script:
-   ```bash
-   python scripts/eda_script.py
-   ```
-
----
 
 ## EDA Highlights
 Key insights discovered:
@@ -95,5 +70,4 @@ The visualizations generated during the analysis are stored in the `outputs/plot
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
